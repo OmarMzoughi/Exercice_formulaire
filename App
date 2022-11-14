@@ -1,0 +1,10 @@
+import Formulaire from "./formulaire";
+import React, { useState } from "react";
+function App() {
+  return (
+    <>
+      <Formulaire />
+    </>
+  );
+}
+export default App;
